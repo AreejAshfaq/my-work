@@ -1,0 +1,15 @@
+{
+  "name": "my-work",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@faker-js/faker": "^9.1.0",
+    "express": "^4.21.1"
+  }
+}
